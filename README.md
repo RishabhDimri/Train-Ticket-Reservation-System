@@ -1,8 +1,4 @@
 # Train Ticket Reservation System 
-<!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
-- Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
-<!-- - Live Url: https://traintickets.herokuapp.com <br>  -->
-<!-- - Login Credentials: admin/admin -->
 
 ### About:
 This project is about the Train-Ticket-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
@@ -56,13 +52,13 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Oracle ( SQL )
 
 ### ==== Software And Tools Required ======
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : Oracle (SQL) / SQL PLUS [https://www.youtube.com/watch?v=ZYOqykEDSqU]
-- : Oracle SQL Developer [https://www.youtube.com/watch?v=2a1JKIGVtd0]
+- : Git 
+- : Java JDK 8+ 
+- : Eclipse EE 
+- : Apache Maven
+- : Tomcat v8.0+
+- : Oracle (SQL) / SQL PLUS
+- : Oracle SQL Developer
 
 ### ========== Dummy Database Initialization ===========
 
@@ -159,9 +155,9 @@ SELECT * FROM HISTORY;
 Note: If any of the above commands fails, please try to fix it first and then proceed to next step
 	
 ### ====== Importing and Running the Project Through Eclipse EE ===========
-Step 0: Open Eclipse Enterprise Edition. [Install if not available](https://www.youtube.com/watch?v=8aDsEV7txXE)
+Step 0: Open Eclipse Enterprise Edition. 
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/RishabhDimri/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
 
 Step 2.A: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
 
@@ -220,6 +216,17 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 <img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
 
 
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
+
+## You may also like...
+
+- [WeatherApp](https://github.com/RishabhDimri/Check-Weather) - An API based weather application.
+- [Pico](https://github.com/RishabhDimri/PICO) - Photo editing application.
+
+
+
+---
+
+> Website[Portfolio](https://rishabhdimri.github.io/Portfolio/) &nbsp;&middot;&nbsp;
+> GitHub [@RishabhDimri](https://github.com/RishabhDimri) &nbsp;&middot;&nbsp;
+> Linkedin [@RishabhDimri](https://www.linkedin.com/in/rishabh-dimri-a87570225/)
+
